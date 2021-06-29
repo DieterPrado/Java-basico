@@ -1,10 +1,10 @@
 # Java Basic
-###Table of contents
+### Table of contents
 - General info
 - Technologies
 - Setup
 - Things learned
-- Commands
+
 
 ------------
 
