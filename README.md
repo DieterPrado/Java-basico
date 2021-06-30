@@ -16,7 +16,7 @@ This repository contains files and information created and obtained from the Jav
 ### Technologies
 - OpenJDK8 (requieres installation)
 - OpenJDK11 (requires installation)
-- IntelliJ IDES (requieres installation)
+- IntelliJ IDEA (requieres installation)
 
 ------------
 
